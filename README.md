@@ -21,17 +21,19 @@ Jsp+Servlet+Layui+Druid+JDBC-Template+JQuery+Js+Ajax+Json+EL/JSTL+BeanUtils
 
 1. 导入结构和数据：sims.sql
 
-2. IDEA导入该sims项目
+2. 解压下载zip重命名sims-master文件夹为sims，IDEA打开该sims项目
 
 3. 修改配置数据库连接文件：druid.properties
 
 4. 为项目添加Tomcat配置，Deployment下Application context设置为：/sims
 
-   管理员		帐号：admin				   密码：admin
+5. 运行成功后，到sims\out\artifacts\sims_war_exploded文件夹中添加upload文件夹
 
-   学生			帐号：1812123206		密码：123
+   管理员      帐号：admin                     密码：admin
 
-   老师			帐号：9912123206		密码：123
+   学生          帐号：1812123206          密码：123
+
+   老师          帐号：9912123206          密码：123
 
 ## 功能描述
 
