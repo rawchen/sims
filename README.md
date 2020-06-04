@@ -35,36 +35,36 @@ Jsp+Servlet+Layui+Druid+JDBC-Template+JQuery+Js+Ajax+Json+EL/JSTL+BeanUtils
 
 ## 功能描述
 
-![](C:\Users\Administrator\Desktop\功能模块.png)
+![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnmk.png)
 
 
 
 ## 数据库设计
 
-![](C:\Users\Administrator\Desktop\数据库设计.png)
+![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/sql.png)
 
 
 
 ## 代码结构
 
-![](C:\Users\Administrator\Desktop\结构图1.jpg)
+![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/jgt1.jpg)
 
-![](C:\Users\Administrator\Desktop\结构图2.jpg)
+![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/jgt2.jpg)
 
 
 
 ## 功能实现部分截图
 
-![](C:\Users\Administrator\Desktop\功能实现1.png)
+![功能实现1](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx1.png)
 
-![功能实现2](C:\Users\Administrator\Desktop\功能实现2.png)
+![功能实现2](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx2.png)
 
-![功能实现3](C:\Users\Administrator\Desktop\功能实现3.png)
+![功能实现3](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx3.png)
 
-![功能实现4](C:\Users\Administrator\Desktop\功能实现4.png)
+![功能实现4](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx4.png)
 
-![功能实现5](C:\Users\Administrator\Desktop\功能实现5.png)
+![功能实现5](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx5.png)
 
-![功能实现6](C:\Users\Administrator\Desktop\功能实现6.png)
+![功能实现6](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx6.png)
 
-![功能实现7](C:\Users\Administrator\Desktop\功能实现7.png)
+![功能实现7](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx7.png)
