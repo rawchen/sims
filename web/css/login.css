@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+body {
+    background: url("../images/bg.jpg");
+    background-position: center;
+    background-size: cover;
+    padding-bottom: 0px;
+}
+.layadmin-user-login-icon {
+    position: absolute;
+    left: 1px;
+    top: 1px;
+    width: 38px;
+    line-height: 36px;
+    text-align: center;
+    color: #d2d2d2;
+}
+.login-main .layui-input {
+    padding-left: 38px;
+}
