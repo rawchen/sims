@@ -19,13 +19,13 @@ Jsp+Servlet+Layui+Druid+JDBC-Template+JQuery+Js+Ajax+Json+EL/JSTL+BeanUtils
 
 ## 项目使用说明
 
-1. 导入结构和数据**sims.sql**
+1. 导入结构和数据：sims.sql
 
 2. IDEA导入该sims项目
 
-3. 修改配置数据库连接文件**druid.properties**
+3. 修改配置数据库连接文件：druid.properties
 
-4. 为项目添加Tomcat配置，Deployment下Application context设置为**/sims**
+4. 为项目添加Tomcat配置，Deployment下Application context设置为：/sims
 
    管理员		帐号：admin				   密码：admin
 
