@@ -67,6 +67,9 @@ public class UploadServlet extends HttpServlet {
 
                         System.out.println(path);
                         File file = new File(path, filename);
+                        if (!file.exists() && !file.isDirectory()) {
+                            file.mkdir();
+                        }
                         item.write(file);
                         request.setAttribute("news", filename + "  上传成功!");
                         request.getRequestDispatcher("/WEB-INF/admin/uploadFile.jsp").forward(request, response);
