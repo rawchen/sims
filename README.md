@@ -27,8 +27,6 @@ Jsp+Servlet+Layui+Druid+JDBC-Template+JQuery+Js+Ajax+Json+EL/JSTL+BeanUtils
 
 4. 为项目添加Tomcat配置，Deployment下Application context设置为：/sims
 
-5. 运行成功后，到sims\out\artifacts\sims_war_exploded文件夹中添加upload文件夹
-
    管理员      帐号：admin                     密码：admin
 
    学生          帐号：1812123206          密码：123
