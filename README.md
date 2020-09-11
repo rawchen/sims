@@ -35,36 +35,36 @@ Jsp+Servlet+Layui+Druid+JDBC-Template+JQuery+Js+Ajax+Json+EL/JSTL+BeanUtils
 
 ## 功能描述
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnmk.png)
+![](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/gnmk.png)
 
 
 
 ## 数据库设计
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/sql.png)
+![](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/1.jpg)
 
 
 
 ## 代码结构
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/jgt1.jpg)
+![](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/jgt1.jpg)
 
-![](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/jgt2.jpg)
+![](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/jgt2.jpg)
 
 
 
 ## 功能实现部分截图
 
-![功能实现1](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx1.png)
+![功能实现1](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/gnsx1.png)
 
-![功能实现2](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx2.png)
+![功能实现2](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/gnsx2.png)
 
-![功能实现3](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx3.png)
+![功能实现3](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/gnsx3.png)
 
-![功能实现4](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx4.png)
+![功能实现4](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/gnsx4.png)
 
-![功能实现5](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx5.png)
+![功能实现5](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/gnsx5.png)
 
-![功能实现6](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx6.png)
+![功能实现6](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/gnsx6.png)
 
-![功能实现7](https://yoyling.oss-cn-shenzhen.aliyuncs.com/github/sims/gnsx7.png)
+![功能实现7](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/gnsx7.png)
