@@ -35,36 +35,35 @@ Jsp+Servlet+Layui+Druid+JDBC-Template+JQuery+Js+Ajax+Json+EL/JSTL+BeanUtils
 
 ## 功能描述
 
-![](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/gnmk.png)
+![](https://i.loli.net/2020/09/20/KIAMwnOVm4pTPHY.png)
 
 
 
 ## 数据库设计
 
-![](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/1.jpg)
-
+![](https://i.loli.net/2020/09/20/MHi4lbhyPsXZDAY.png)
 
 
 ## 代码结构
 
-![](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/jgt1.jpg)
+![](https://i.loli.net/2020/09/20/HkNFR9p65LmaWrY.jpg)
 
-![](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/jgt2.jpg)
+![](https://i.loli.net/2020/09/20/YlftrBXmnRpwod9.jpg)
 
 
 
 ## 功能实现部分截图
 
-![功能实现1](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/gnsx1.png)
+![](https://i.loli.net/2020/09/20/JhSGDOya8XLifb3.png)
 
-![功能实现2](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/gnsx2.png)
+![](https://i.loli.net/2020/09/20/m3FKaybiABG4ZkN.png)
 
-![功能实现3](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/gnsx3.png)
+![](https://i.loli.net/2020/09/20/aOcluxwgS5qP2ez.png)
 
-![功能实现4](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/gnsx4.png)
+![](https://i.loli.net/2020/09/20/fqUPt2djlVes8vw.png)
 
-![功能实现5](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/gnsx5.png)
+![](https://i.loli.net/2020/09/20/fqUPt2djlVes8vw.png)
 
-![功能实现6](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/gnsx6.png)
+![](https://i.loli.net/2020/09/20/hZPMuIKv7ow54rJ.png)
 
-![功能实现7](https://raw.githubusercontent.com/yoyling/sims/master/screenshots/gnsx7.png)
+![](https://i.loli.net/2020/09/20/8Ii7r6Q1CNvDSMb.png)
