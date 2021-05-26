@@ -23,6 +23,11 @@ public class FileListServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         request.setCharacterEncoding("utf-8");
         File dir = new File(this.getServletContext().getRealPath("upload"));
+        if (!dir.exists() && !dir.isDirectory()) {
+            System.out.println(this.getServletContext().getRealPath("upload") + "目录不存在，需要创建");
+            // 创建目录
+            dir.mkdir();
+        }
         File[] arrs = dir.listFiles();
         List<FileClass> fileLists = new ArrayList<FileClass>();
         for(File f:arrs){
