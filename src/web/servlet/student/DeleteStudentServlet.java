@@ -18,10 +18,11 @@ public class DeleteStudentServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         request.setCharacterEncoding("utf-8");
         HttpSession session = request.getSession();
-        String studentid = request.getParameter("sid");
+        String studentid = request.getParameter("s_id");
         StudentService service = new StudentServiceImpl();
         service.deleteStudentById(studentid);
-        request.getRequestDispatcher("/findStudentByPageServlet").forward(request,response);
+//        request.getRequestDispatcher("/findStudentByPageServlet").forward(request,response);
+        response.sendRedirect("findStudentByPageServlet");
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {

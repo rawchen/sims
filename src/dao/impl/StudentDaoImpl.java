@@ -146,6 +146,7 @@ public class StudentDaoImpl implements StudentDao {
         //定义参数集合
         List<Object> params = new ArrayList<Object>();
         for (String key : keySet) {
+            System.out.println(key);
             //排除分页条件参数
             if ("currentPage".equals(key) || "rows".equals(key)) {
                 continue;

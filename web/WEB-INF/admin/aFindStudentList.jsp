@@ -134,7 +134,7 @@
 <script>
     function deleteStudent(s_id) {
         if (confirm("你确定删除该学生吗？")) {
-            location.href = "${pageContext.request.contextPath}/deleteStudentServlet?sid=" + s_id;
+            location.href = "${pageContext.request.contextPath}/deleteStudentServlet?s_id=" + s_id;
         }
     }
 
