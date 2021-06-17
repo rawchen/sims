@@ -111,7 +111,7 @@
     position: relative;
     height: 433px;
     background-color: #edededbf;
-    /*backdrop-filter: blur(20px);*/
+    backdrop-filter: blur(20px);
 }
 
 .my-body .layui-tab, .my-body .layui-tab .layui-tab-content {
