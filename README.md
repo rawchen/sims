@@ -5,7 +5,11 @@
 
 面向教学信息以及学生及老师的信息管理要求，学生信息管理系统应运而生，它能提供线上的信息管理，从而高效的处理数据。方便方便对学生及老师各类数据进行大数据分析。
 
-## 技术栈：
+## 项目演示
+
+> http://sims.rawchen.com
+
+## 技术栈
 
 Jsp+Servlet+Layui+Druid+JDBC-Template+JQuery+Js+Ajax+Json+EL/JSTL+BeanUtils
 
