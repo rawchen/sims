@@ -19,6 +19,9 @@ import java.net.URLEncoder;
 public class DownloadServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String filename = request.getParameter("filename");
+        if (filename.equalsIgnoreCase("../") || filename.equalsIgnoreCase("/")) {
+            request.getRequestDispatcher("error.jsp").forward(request, response);
+        }
         response.addHeader("content-Type", "application/octet-stream");
 
         String agent = request.getHeader("User-Agent");

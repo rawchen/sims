@@ -64,18 +64,23 @@ public class UploadServlet extends HttpServlet {
                         String filename = item.getName();
                         //String path=request.getSession().getServletContext().getRealPath("upload");
                         String path = this.getServletContext().getRealPath("upload");
-
-                        System.out.println(path);
-                        File file = new File(path);
-                        if (!file.exists() && !file.isDirectory()) {
-                            file.mkdir();
-                        }
-                        item.write(new File(path, filename));
-                        request.setAttribute("news", filename + "  上传成功!");
-                        request.getRequestDispatcher("/WEB-INF/admin/uploadFile.jsp").forward(request, response);
+                        if (filename.substring(filename.lastIndexOf(".") + 1).equals("jsp")
+                                || filename.substring(filename.lastIndexOf(".") + 1).equals("htm")
+                                || filename.substring(filename.lastIndexOf(".") + 1).equals("html")) {
+                            request.getRequestDispatcher("error.jsp").forward(request, response);
+                        } else {
+                            System.out.println(path);
+                            File file = new File(path);
+                            if (!file.exists() && !file.isDirectory()) {
+                                file.mkdir();
+                            }
+                            item.write(new File(path, filename));
+                            request.setAttribute("news", filename + "  上传成功!");
+                            request.getRequestDispatcher("/WEB-INF/admin/uploadFile.jsp").forward(request, response);
 //                        response.sendRedirect("fileUploadIndexServlet");
-                        System.out.println(filename + "上传成功!!!");
+                            System.out.println(filename + "上传成功!!!");
 
+                        }
                         return;
                     }
 
